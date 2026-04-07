@@ -9,11 +9,11 @@ graphviz==0.20.1
 lightgbm==4.3.0
 matplotlib==3.10.3
 numba==0.64.0
-numpy==2.2.6
+numpy
 optuna==4.4.0
-pandas==2.2.1
+pandas
 plotly==5.20.0
-scikit-learn==1.6.1
+scikit-learn
 scikit-uplift==0.5.1
 scipy==1.15.2
 seaborn==0.13.2
